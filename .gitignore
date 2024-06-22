@@ -1,0 +1,8 @@
+# iOS
+.DS_Store
+._*
+
+# Visual Studio Code
+.vscode/
+
+walmart-recruiting-store-sales-forecasting/
