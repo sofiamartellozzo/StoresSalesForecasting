@@ -1,0 +1,8 @@
+pandas
+seaborn
+matplotlib
+missingno
+scikit-learn
+
+xgboost
+tensorflow
